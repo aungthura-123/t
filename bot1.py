@@ -230,12 +230,12 @@ def main_buttons():
             url=f"https://t.me/{BOT_USERNAME}?startgroup=s&delete_message+manage_video_chats_message+invite_users")
           )
     kb.row(    
-         InlineKeyboardButton("DEV", url="https://t.me/HANTHAR_1999"),
-         InlineKeyboardButton(" စကားပြော ", url="https://t.me/myanmar_music_Bot2027")
+         InlineKeyboardButton("DEV", url="https://t.me/OfficialSheePhaw"),
+         InlineKeyboardButton(" စကားပြော ", url="https://t.me/+9jOjYLZ7Hgo2OTM1")
           )
     kb.row(  
-        InlineKeyboardButton("Botပြုလုပ်လိုပါက", url="tg://resolve?domain=HEX_KING9&text=Botအသစ်လုပ်ချင်လို့ပါ"),
-        InlineKeyboardButton("UPDATE", url="https://t.me/myanmarbot_music")
+        InlineKeyboardButton("Botပြုလုပ်လိုပါက", url="tg://resolve?domain=OfficialSheePhaw&text=Botအသစ်လုပ်ချင်လို့ပါ"),
+        InlineKeyboardButton("UPDATE", url="https://t.me/SheePhawChannel")
           )
     return kb
 # ======================
@@ -715,7 +715,7 @@ def start(message):
     # ၃။ Join ထားပြီးသူများအတွက် ပြသမည့် စာသား
     bot.send_message(
         message.chat.id, 
-        "<tg-emoji emoji-id='5251299553239398548'>🤖</tg-emoji> <b>𝙼𝚢𝚊𝚗𝚖𝚊𝚛 𝙵𝚛𝚒𝚎𝚗𝚍 Bot Online!</b>\n\n"
+        "<tg-emoji emoji-id='5251299553239398548'>🤖</tg-emoji> <b>Nᴏ Pʟᴀɴ B Aᴜᴛᴏ Rᴇᴘʟʏ Online!</b>\n\n"
         "<tg-emoji emoji-id='5240241223632954241'>🚫</tg-emoji> Bio / Join / Link spam auto delete\n"
         "<tg-emoji emoji-id='6271786398404055377'>⚠️</tg-emoji> 3 Warnings = Auto Mute\n\n"
         "<tg-emoji emoji-id='5226945370684140473'>➕</tg-emoji> Bot ကို Group ထဲထည့်ပြီး Admin ပေးထားပါ။<tg-emoji emoji-id='5226945370684140473'>➕</tg-emoji> ",
